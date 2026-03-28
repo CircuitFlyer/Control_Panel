@@ -24,4 +24,4 @@ Clean the outside surface of the fuselage around the switch and LED.  Carefully 
 
 
 
-[1]: https://github.com/CircuitFlyer/Control_Panel/tree/main/Design%20Files/Contol_Panel%Drawing%-%v2.0.pdf
+[1]: https://github.com/CircuitFlyer/Control_Panel/tree/main/Design%20Files/Contol_Panel_Drawing_-_v2.0.pdf
