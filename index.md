@@ -39,7 +39,7 @@ Weight: 3 grams
 [Click Here to order a **Control_Panel** kit on **Lectronz**](https://lectronz.com/products/climb_and_dive){: .btn .btn-green}
 </span>
 
-For more information about the Climb_and_Dive active/governor timer:
+Want some more information about the best timer in the world?  The Climb_and_Dive active/governor timer:
 
 <span class="fs-6">
 [Click Here for information about the **Climb_and_Dive** timer](https://circuitflyer.com/Climb_and_Dive/){: .btn .btn-blue}
