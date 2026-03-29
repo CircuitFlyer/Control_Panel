@@ -14,12 +14,14 @@ nav_order: 1
 ## What It Is
 Control_Panel is a compact package consisting of a start switch and status indicator light.  It is intended to simplify the installation of a remotely mounted user interface for use with CircuitFlyer inspired active/governor timer systems.  
 
-The components are mounted on a compact printed circuit board for easy mounting to the fuselage surface.  For full fuselage model airplanes, the Control_Panel mounts on the inside with the pushbutton switch and LED protruding through two small holes in the fuselage wall for a clean exterior appearance.  A version of the Control_Panel is also available with shorter style components for mounting on the exterior of profile fuselage model aircraft.
+The electrical components are attached to a printed circuit board for easy mounting on the fuselage surface.  For full fuselage model airplanes, the Control_Panel mounts on the inside with the pushbutton switch and LED protruding through two small holes in the fuselage wall for a clean exterior appearance.  A version of the Control_Panel is also available with shorter style components for mounting on the exterior of profile fuselage model aircraft.
+
+The installation kit also includes appropriate connectors and wires to join the Contol_Panel to the timer.  Soldering skills will be required to splice the wires together at the custom length necessary for your installation.
 
 ## Installation Kit Details
 The base components consists of:<br>
 (1) PCB assembly (pushbutton switch and addressable multicolour LED)<br>
-(4) Pin JST-SH connector with 6” 28 gauge wire leads<br>
+(1) 4 Pin JST-SH connector with 6” 28 gauge wire leads<br>
 (4) 6” 28 gauge wire leads with female crimp connectors<br>
 (4) Lengths of heat shrink tubing<br>
 

@@ -8,53 +8,31 @@ nav_order: 3
 
 ## Connect it up ##
 
-The  flat bottom of the timer is intended be installed on a vertical part of the aircraft with the ESC/Motor connection pins pointing forward and the component side of the timer facing the pilot.  Although not super-critical, it is important that the long side of the timer is installed so that it is horizontal when the aircraft is flying straight and level.
+The wiring and connectors supplied in the kit consist of a 4 pin JST-SH connector with 6" (150mm) leads attached plus (4) individual 6" (150mm) wire leads with female crimp pins attached.  Also included are (4) lengths of coloured heat shrink tubing.
+
+The JST-SH connector plugs into the receptacle that is mounted on the Contol_Panel printed circuit board.  The female crimp pins connect to the individual pins on the Climb_and_Dive timer circuit board as shown.
+
+Once the location of both the timer and Control_Panel are established, route the connection wires and trim the wires to the exact length needed.  Strip and solder the wires together.
+
+Cut each length of heat shrink tubing in half.  Use one piece to cover the wire solder joints and the other half to insulate the exposed female crimp pin.
 
 {: .highlight }
-The description above is considered the **default** mounting orientation.  Installing the timer in your airplane in a different orientation is permissible. Please refer to the page titled [Timer Mounting Position & Calibration](Programming/Timer Mounting Position & Calibration) for details.
+Note: The female crimp pins included with the installation kit are genuine Amphenol Mini PV series connectors.  These are the highest quality connectors for use with the square post male header pins used on the Climb_and_Dive timer.  These crimp connectors feature a a two-piece design with a beryllium copper spring.  For individual connections, the PV series are far superior to the crimp connectors of the cheaper single-piece design found in all hobby grade 'servo' or 'Dupont' connectors.
 
-A couple of pieces of adhesive backed hook and loop fastener (aka Velcro) makes quick work of holding the timer in position.
+When connecting to the timer, be sure to orient the female crimp pin to align with the square faces of the male header pin.
 
-Please keep in mind that the accelerometer is a very sensitive device and excessive vibration can make it difficult to get accurate readings.  If possible locate the timer away from any source of vibration.  It's always a good idea to balance new propellers before use.
-
-![](assets/images/Ringmaster Installation.jpeg)
-
-## Connecting it All Together ##
+Follow the instructions for the timer installation to complete the system.
 
 {: .highlight }
-When connecting the ESC servo connector be sure the **ground wire (brown or black)** is attached to the ground pin on the board, labeled **GND**.  
-
-![](assets/images/Connections.jpeg)
-![](assets/images/Climb_and_Dive Connection Diagram.png)
-
-Connect the backpack motor pins to any two of the three motor wires.  It doesn't matter which two.  For convenience I use a male JST battery style connector (just for reference: the full manufacturers name is a male JST-RYC connector).  Solder the JST connector leads into the back of the bullet connectors of the ESC motor wires.
-
-![](assets/images/Bullet Connectors.jpeg)
-
-{: .highlight }
-Note: The main reason a JST connector is suggested is only because it's a very common 2-pin connector available from just about any hobby shop.  It may not be the ideal connector if connected and disconnected frequently.  A more robust connector would be a 2-pin "Dupont" connector.  Unfortunately, these are a little harder to find but are available from online retailers.
+Note: The 5mm diameter addressable LED used in the Contol_Panel kit will illuminate blue from the time power is first applied until the time a valid signal is received from the timer microcontroller.  In other words, the LED will illuminate blue when the airplane battery is connected.  After the timer finishes the boot-up process the LED will then turn green.  This is the normal operation for this particular LED.
 
 
 ## Optional Modifications ##
 
-The following items are not necessary for normal operation of the timer.  They are listed here only as additional information that may pertain to your particular installation requirements.
-
-**Touch Pin Options**
-
-The touch sensor pin works by sensing a change in capacitance of the exposed header pin.  The conductivity of everyones fingertip is a little different and in some cases you may find the touch the sensor pin does not working reliably to your satisfaction.  The small pin limits the surface area in contact with your fingertip.
-
-The best way to increase the sensitivity of the pin is to increase the contact surface area of the 'sensor'.
-
-One simple method to increase the area is to apply a short pieces of electrically conductive tape to the exterior of the airplane.  A length of wire can then be used to connect the timer sensor pin to the conductive tape.  The increased area of the conductive tape greatly improves the operation of the touch sensor.  The exposed tape is the most sensitive but, at the cost of a slight reduction in sensitivity the tape can be hidden underneath iron on covering, paint, dope or a thin vinyl decal and it still works!  This option works great for airplanes with a full body fuselage.
-
-Adafruit has both flexible [nylon conductive tape][1] and not so flexible [copper conductive tape][2]. A search on Amazon for conductive cloth tape, conductive nylon adhesive tape or faraday cloth tape also turned up several suitable choices.  The adhesive is also conductive so connecting the wire is as easy as applying the tape over the striped end of the wire.  A female servo connector pin crimped onto the other end of the wire allows for a removable connection to the timer touch sensor pin.
+Some timer installations may not have enough space above the timer to allow for the crimp pin connectors.  **After** the heat shrink tubing is installed, it is possible to carefully bend the crimp pin up to 90 degrees.  Since the bending process work hardens the copper, it is advisable to only perform the bending action one time.
 
 ![](assets/images/Conductive tape with wire.jpeg)
 
 ![](assets/images/Conductive tape installed.jpeg)
 
 ![](assets/images/Conductive tape label installed.jpeg)
-
-
-[1]: https://www.adafruit.com/product/3960
-[2]: https://www.adafruit.com/product/3483
