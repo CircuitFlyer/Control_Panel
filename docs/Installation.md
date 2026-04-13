@@ -12,7 +12,7 @@ Choose a location on the airplane that is accessible and where the status indica
 
 Click [HERE](https://github.com/CircuitFlyer/Control_Panel/blob/main/Design%20Files/Contol_Panel_Drawing_-_v2.0.pdf){: download} for a dimensional drawing of the assembled PCB.
 
-<a href="Design%20Files/Contol_Panel_Drawing_-_v2.0.pdf" download>Download PDF</a>
+<a href="Control_Panel/Design%20Files/Contol_Panel_Drawing_-_v2.0.pdf" download>Download PDF</a>
 
 
 Use the supplied drill template to locate the position of the two holes to be drilled through the fuselage sides.  The template has two sets of holes; choose a set of holes that suit your technique. One set is used to locate small 1/16" (1.5mm) diameter pilot holes and the other set for the final suggested hole diameter; a 5/32" (4mm) drill for the switch and a 7/32 (5.5mm) drill for the LED should provide a little extra clearance for installation.
