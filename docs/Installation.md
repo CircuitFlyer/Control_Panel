@@ -10,7 +10,7 @@ nav_order: 2
 
 Choose a location on the airplane that is accessible and where the status indicator LED will be visible to the pilot from the centre of the flying circle.  The included wiring can reach up to 10" (26cm) from the timer mounting location.
 
-Click [HERE](/Design%20Files/Contol_Panel_Drawing_-_v2.0.pdf){: download} for a dimensional drawing of the assembled PCB.
+Click [HERE](https://circuitflyer.com/Control_Panel/docs/Design%20Files/Contol_Panel_Drawing_-_v2.0.pdf){: download} for a dimensional drawing of the assembled PCB.
 
 <a href="Design Files/Contol_Panel_Drawing_-_v2.0.pdf" download>Download PDF</a>
 
