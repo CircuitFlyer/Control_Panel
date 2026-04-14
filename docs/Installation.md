@@ -11,11 +11,8 @@ nav_order: 2
 Choose a location on the airplane that is accessible and where the status indicator LED will be visible to the pilot from the centre of the flying circle.  The included wiring can reach up to 10" (26cm) from the timer mounting location.
 
 Click <a href="Design Files/Contol_Panel_Drawing_-_v2.0.pdf" target="_blank" rel="noopener noreferrer">HERE to View
-</a> a dimensional drawing of the assembled PCB. Click <a href="Design Files/Contol_Panel_Drawing_-_v2.0.pdf" download>HERE to download the PDF file</a>
+</a> a dimensional drawing of the assembled PCB. Click <a href="Design Files/Contol_Panel_Drawing_-_v2.0.pdf" download>HERE to download</a> the drawing.
 
-
-
-[HERE](https://circuitflyer.com/Control_Panel/docs/Design%20Files/Contol_Panel_Drawing_-_v2.0.pdf){: download}
 
 Use the supplied drill template to locate the position of the two holes to be drilled through the fuselage sides.  The template has two sets of holes; choose a set of holes that suit your technique. One set is used to locate small 1/16" (1.5mm) diameter pilot holes and the other set for the final suggested hole diameter; a 5/32" (4mm) drill for the switch and a 7/32 (5.5mm) drill for the LED should provide a little extra clearance for installation.
 
