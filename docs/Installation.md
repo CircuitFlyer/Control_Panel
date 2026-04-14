@@ -38,7 +38,7 @@ Clean the outside surface of the fuselage around the switch and LED.  Carefully 
 The Control_Panel version for external mounting uses a low profile addressable LED and shorter pushbutton switch.  Installation is straight forward as the PCB can be mounted with velcro or using the included #2 x 3/8" screws.  Hint: for better grip, use a drop of thin CA glue to 'harden' the threaded holes when screwing into soft balsa wood.
 
 {: .highlight }
-**Important:** The shorter addressable LED used on the profile fuselage version of the Control_Panel is an "GRB" Neopixel.  Refer to the Climb_and_Dive instruction manual under the section titled [Advanced Modifications, Additional Parameters Accessible within the Program Code][2] to change the variable named **pixel_colour** from "RGB" to "GRB".  This is required otherwise the red and green lights will be reversed.
+**Important:** The shorter addressable LED used on the profile fuselage version of the Control_Panel is a "GRB" Neopixel.  Refer to the Climb_and_Dive instruction manual under the section titled [Advanced Modifications, Additional Parameters Accessible within the Program Code][2] to change the variable named **pixel_colour** from "RGB" to "GRB".  This is required otherwise the red and green lights will be reversed.
 
 ![](assets/images/PFPB installed.jpg)
 

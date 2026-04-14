@@ -41,7 +41,7 @@ The full fuselage version includes all of the base components plus:<br>
 (1) Laser cut acrylic drill template<br>
 (2) Printed vinyl labels<br>
 
-![](assets/images/Kit Components PF.jpg)
+![](assets/images/Kit components PF.jpg)
 
 The Profile fuselage version includes all of the base components plus:<br>
 (2) #2 x 3/8” wood screws<br>
