@@ -12,7 +12,7 @@ nav_order: 1
 {: .text-center }
 
 ## What It Is
-Control_Panel is a compact package consisting of a start switch and super bright status indicator light.  It is intended to simplify the installation of a remotely mounted user interface for use with CircuitFlyer inspired active/governor timer systems.  
+Control_Panel is a compact package consisting of a start switch and super bright status indicator light.  Visible from 60 ft away even on a sunny day. It is intended to simplify the installation of a remotely mounted user interface for use with CircuitFlyer inspired active/governor timer systems.  
 
 ![](assets/images/FFPB PCB Assembly.jpg)
 
