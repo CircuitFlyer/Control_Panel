@@ -51,7 +51,7 @@ Weight: 3 grams<br>
 Maximum fuselage wall thickness for full fuselage version: 3/16", 5mm
 
 <span class="fs-6">
-[Click Here to order a **Control_Panel** kit on **Lectronz**](https://lectronz.com/products/climb_and_dive){: .btn .btn-green}
+[Click Here to order a **Control_Panel** kit on **Lectronz**](https://lectronz.com/products/control_panel){: .btn .btn-green}
 </span>
 
 Want some more information about the best timer in the world?  The Climb_and_Dive active/governor timer:
